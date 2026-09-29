@@ -1,3 +1,5 @@
 # Environments
 
 venv/
+
+generated_docx_tables/
