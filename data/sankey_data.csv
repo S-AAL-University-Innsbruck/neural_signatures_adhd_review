@@ -1,0 +1,49 @@
+study_id,cognitive_domains_tested,standardized_cognitive_domains,task_names,eeg_measures,include
+Bekker_2005,"response inhibition, selective attention, attentional switching",Inhibitory Control; Attention & Vigilance,Stop Signal Task (SST),"Cognitive ERPs (N2, P3, CNV, LRP, CDA); Sensory ERPs (P1, N1, P2)",1
+Cowley_2022,"sustained attention, inhibition, vigilance/inattention",Attention & Vigilance,Continuous Performance Test (CPT),Phase Sync & Functional Connectivity; Spectral Power & Oscillations (ERD/ERSP),1
+Deiber_2020,Attention and inhibitory/motor control,Inhibitory Control,Go_NoGo,Spectral Power & Oscillations (ERD/ERSP),1
+Deiber_2021,continuous performance,Attention & Vigilance,Go_NoGo,General ERP Metrics (Amplitude/Latency),1
+Doehnert_2013,"attentional, preparatory, and inhibitory cognitive brain functions",Inhibitory Control; Attention & Vigilance,Continuous Performance Test (CPT),"Cognitive ERPs (N2, P3, CNV, LRP, CDA); Power Ratios & Asymmetry (TBR, AI)",1
+Fisher_2011,response inhibition,Inhibitory Control,Go_NoGo,"Cognitive ERPs (N2, P3, CNV, LRP, CDA); Sensory ERPs (P1, N1, P2)",1
+Freichel_2024,response inhibition; sustained attention; working memory,Attention & Vigilance; Working Memory,Sustained / Signal Detection Response Tasks (SDRT),Spectral Power & Oscillations (ERD/ERSP),1
+Freichel_2024,response inhibition; sustained attention; working memory,Inhibitory Control; Attention & Vigilance,Go_NoGo,Spectral Power & Oscillations (ERD/ERSP),1
+Gorman_Bozorgpour_2013,"motor response preparation, motor inhibition, and signal detection",Inhibitory Control; Motor & Response Preparation,Go_NoGo,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Grane_2016,"proactive cognitive control (anticipatory attention and motor preparation); reactive cognitive control (conflict monitoring, action evaluation, and response control/inhibition)",Motor & Response Preparation; Inhibitory Control; Performance & Conflict Monitoring,Go_NoGo,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Gu_2018,visuospatial working memory,Working Memory,Working Memory / Change Detection Tasks,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Hale_2009,Attention/Vigilance,Attention & Vigilance,Continuous Performance Test (CPT),"Power Ratios & Asymmetry (TBR, AI)",1
+Hale_2010,"attention (Continuous Performance Test), Language (Vocabulary, Phonology, Spelling, Reading)",Attention & Vigilance; Language & Verbal Ability,Continuous Performance Test (CPT),"Power Ratios & Asymmetry (TBR, AI)",1
+Hale_2014,"Verbal working memory (VWM), spatial working memory (SWM), executive functions (EFs), processing speed, attention, verbal phonologic ability, and motor dexterity; Attention & Vigilance; Inhibitory Control",Working Memory; Language & Verbal Ability; Motor & Response Preparation; General Reasoning & Intelligence; Processing Speed & Information Processing,Continuous Performance Test (CPT),"Power Ratios & Asymmetry (TBR, AI)",1
+Jang_2020,spatial working memory,Working Memory,N-Back Task,Spectral Power & Oscillations (ERD/ERSP),1
+Kakuszi_2016,stimulus-driven response preparation and intra-subject reaction time variability,Motor & Response Preparation,Go_NoGo,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Kakuszi_2020,emotionally valanced response inhibition,Inhibitory Control,Go_NoGo,General ERP Metrics (Amplitude/Latency),1
+Kim_2014,working memory (verbal and visual-spatial),Working Memory,Working Memory / Change Detection Tasks,General ERP Metrics (Amplitude/Latency),1
+Kim_2016,verbal working memroy,Working Memory,N-Back Task,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Koechel_2012,Affective inhibitory control / response inhibition,Inhibitory Control,Go_NoGo,General ERP Metrics (Amplitude/Latency),1
+Luo_2019,Spatial attentional selection and visual working memory capacity,Working Memory; Attention & Vigilance,Working Memory / Change Detection Tasks,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+MacLaren_2007,inhibitory control (response inhibition) and general attention,Inhibitory Control,Stop Signal Task (SST),General ERP Metrics (Amplitude/Latency),1
+MacLaren_2007,inhibitory control (response inhibition) and general attention,Attention & Vigilance,Oddball Task,General ERP Metrics (Amplitude/Latency),0
+Markovska-Simoska_2016,"action engagement/activation (P3bP component), motor inhibition (P3supF), self-monitoring/error correction (P4monCC), and working memory/comparison (vcomTL and vcomTR)",Working Memory; Inhibitory Control; Motor & Response Preparation; Performance & Conflict Monitoring,Continuous Performance Test (CPT),"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Markovska-Simoska_2016,"action engagement/activation (P3bP component), motor inhibition (P3supF), self-monitoring/error correction (P4monCC), and working memory/comparison (vcomTL and vcomTR)",Working Memory; Inhibitory Control; Motor & Response Preparation; Performance & Conflict Monitoring,Continuous Performance Test (CPT),"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",0
+McLoughlin_2010,"Attentional orienting, cognitive/motor preparation, response execution, conflict monitoring, and inhibitory processing",Inhibitory Control; Motor & Response Preparation; Attention & Vigilance; Performance & Conflict Monitoring,Continuous Performance Test (CPT),General ERP Metrics (Amplitude/Latency),1
+Missonnier_2013,working memory,Working Memory,N-Back Task,Spectral Power & Oscillations (ERD/ERSP),1
+Münger_2022,visual continuous performance,Inhibitory Control; Attention & Vigilance,Go_NoGo,General ERP Metrics (Amplitude/Latency),1
+Papp_2023,inhibitory control,Inhibitory Control,Go_NoGo,General ERP Metrics (Amplitude/Latency),1
+Prox_2007,response inhibition,Inhibitory Control,Go_NoGo,General ERP Metrics (Amplitude/Latency),1
+Rodriguez_2007,"attention, impulse control, signal detection/sensitivity, and the execution and inhibition of prepared motor responses",Attention & Vigilance; Inhibitory Control; Motor & Response Preparation,Go_NoGo,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Shahaf_2012,Attentive and inhibitory processes,Inhibitory Control; Attention & Vigilance,Go_NoGo,"Brain Network Activation (BNA); Cognitive ERPs (N2, P3, CNV, LRP, CDA); Phase Sync & Functional Connectivity; Sensory ERPs (P1, N1, P2)",1
+Shen_2014,"response inhibition, inhibitory motor control",Inhibitory Control,Stop Signal Task (SST),"Cognitive ERPs (N2, P3, CNV, LRP, CDA); Sensory ERPs (P1, N1, P2)",1
+Smit_2023,response inhibition,Inhibitory Control,Stop Signal Task (SST),Phase Sync & Functional Connectivity; Spectral Power & Oscillations (ERD/ERSP),1
+Smit_2023,Set-shifting,Cognitive Flexibility & Set-Shifting,Switching / Set-Shifting Task,Phase Sync & Functional Connectivity; Spectral Power & Oscillations (ERD/ERSP),0
+Smit_2023,conflict monitoring,Performance & Conflict Monitoring,Stroop Task,Phase Sync & Functional Connectivity; Spectral Power & Oscillations (ERD/ERSP),0
+Smit_2023,working memory updating,Working Memory,N-Back Task,Phase Sync & Functional Connectivity; Spectral Power & Oscillations (ERD/ERSP),1
+Stroux_2016,"Working memory updating, interference control, and general intellectual ability (reasoning and vocabulary)",Working Memory; General Reasoning & Intelligence; Cognitive Control & Regulation,N-Back Task,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Taymourtash_2014,inhibitory control; sustained attention,Inhibitory Control; Attention & Vigilance,Continuous Performance Test (CPT),"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+White_2005,attention and information proccessiong; abstract reasoning and of cognitive shifts in strategic responses to changing environmental contingencies; response control and attention,,PASAT,"Power Ratios & Asymmetry (TBR, AI); Spectral Power & Oscillations (ERD/ERSP)",0
+White_2005,attention and information proccessiong; abstract reasoning and of cognitive shifts in strategic responses to changing environmental contingencies; response control and attention,General Reasoning & Intelligence; Inhibitory Control;Attention & Vigilance;Performance & Conflict Monitoring; Processing Speed & Information Processing,Continuous Performance Test (CPT),"Power Ratios & Asymmetry (TBR, AI); Spectral Power & Oscillations (ERD/ERSP)",1
+White_2005,attention and information proccessiong; abstract reasoning and of cognitive shifts in strategic responses to changing environmental contingencies; response control and attention,,Wisconsin Card Sorting Test (WCST),"Power Ratios & Asymmetry (TBR, AI); Spectral Power & Oscillations (ERD/ERSP)",0
+Wiegand_2016,"visual short-term memory storage capacity, visual processing speed,",Working Memory; Processing Speed & Information Processing,Working Memory / Change Detection Tasks,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Wiersema_2007,state regulation & response inhibition,Inhibitory Control; Cognitive Control & Regulation,Go_NoGo,"Cognitive ERPs (N2, P3, CNV, LRP, CDA)",1
+Wiersema_2008,Error monitoring (including automatic error detection and later conscious evaluation of errors) and post-error slowing,Performance & Conflict Monitoring,Go_NoGo,"Error-Related ERPs (ERN, Pe)",1
+Woltering_2013,inhibitory control,Inhibitory Control,Go_NoGo,"Cognitive ERPs (N2, P3, CNV, LRP, CDA); Sensory ERPs (P1, N1, P2)",1
+Zhao_2020,Working memory,Working Memory,N-Back Task,"Cognitive ERPs (N2, P3, CNV, LRP, CDA); Sensory ERPs (P1, N1, P2)",1
+Diamanti_2025,error monitoring,Performance & Conflict Monitoring,Go_NoGo,"Error-Related ERPs (ERN, Pe)",1
