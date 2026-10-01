@@ -5,3 +5,5 @@ venv/
 generated_docx_tables/
 
 __pycache__/
+
+plots/
