@@ -4,6 +4,7 @@ from pathlib import Path
 
 import pandas as pd
 from docx import Document
+from docx.shared import Pt
 
 
 def generate_docx_table(
@@ -19,6 +20,14 @@ def generate_docx_table(
     table = document.add_table(rows=1, cols=len(dataframe.columns))
     table.style = "Table Grid"
 
+    # --- Apply font to the entire table in one pass ---
+    for row in table.rows:
+        for cell in row.cells:
+            for p in cell.paragraphs:
+                for run in p.runs:
+                    run.font.name = "Calibri"
+                    run.font.size = Pt(10)
+                    
     for cell, column_name in zip(table.rows[0].cells, dataframe.columns):
         cell.text = str(column_name)
 
