@@ -1,6 +1,6 @@
 study_id,short_id,task,EEG_measure,min_freq_hz,max_freq_hz,time_window_start,time_window_end,finding_type,finding_description,stat_test_type,stat_name,stat_value,p_value,"Difference (0 = No diff, 1 = larger ADHD, 2 = smaller ADHD)",include
 Missonnier_2013,Missonnier13,visual_n_back,fr. transient theta ERS,4,7,0,500,group_diff_sig,Reduced early transient frontal theta event-related synchronization in ADHD,ANCOVA,F,8.5,0.007,2,1
-Missonnier_2013,Missonnier13,visual_n_back,fr. sustained theta,4,7,500,1200,group_diff_non_sig,No significant group difference in tonic sustained theta activity,ANCOVA,F,NR,NR,0,1
+Missonnier_2013,Missonnier13,visual_n_back,fr. sustained theta,4,7,500,1200,group_diff_non_sig,No significant group difference in tonic sustained theta activity,ANCOVA,F,,,0,1
 Jang_2020,Jang20,spatial_2_back,Scalp-wide theta power,4,7,0,1000,group_diff_sig,Reduced scalp-wide theta power during spatial 2-back tasks in ADHD-trait cohort,ANOVA,F,6.34,0.01,2,1
 Jang_2020,Jang20,spatial_2_back,Parietal theta power,4,7,0,250,correlation_sig,Lower early parietal theta power correlated with poorer CAARS self-concept,Pearson r,r,-0.32,< .05,0,0
 Jang_2020,Jang20,spatial_2_back,oc. theta power,4,7,750,1000,correlation_sig,Lower late occipital theta power correlated with poorer CAARS self-concept,Pearson r,r,-0.38,< .05,0,0
@@ -8,47 +8,47 @@ Jang_2020,Jang20,spatial_2_back,oc. theta power,4,7,0,250,correlation_sig,Attenu
 Jang_2020,Jang20,spatial_2_back,TPLV,4,7,0,500,group_diff_sig,Lower early post-stimulus theta phase-locking connectivity in ADHD-trait cohort,ANOVA,F,6.17,< .05,2,1
 Jang_2020,Jang20,spatial_2_back,Theta clustering coefficient,4,7,0,1000,group_diff_sig,Reduced theta clustering coefficient in ADHD-trait cohort,ANOVA,F,8.08,< .01,2,1
 Jang_2020,Jang20,spatial_2_back,Theta clustering coefficient,4,7,250,500,correlation_sig,Higher local theta clustering correlated positively with CAARS ADHD index scores,Pearson r,r,0.34,< .05,0,0
-Smit_2023,Smit23,verbal_3_back,fr. theta power & connectivity,4,8,200,400,group_diff_non_sig,No between-group differences in theta power or connectivity during verbal 3-back,ANOVA,F,NR,NR,0,1
+Smit_2023,Smit23,verbal_3_back,fr. theta power & connectivity,4,8,200,400,group_diff_non_sig,No between-group differences in theta power or connectivity during verbal 3-back,ANOVA,F,,,0,1
 Smit_2023,Smit23,verbal_3_back,"fr. theta power (FM, FLl, FLr)",4,8,200,400,correlation_sig,Greater theta power across participants predicted faster reaction times,Pearson r,r,-0.42,<= .004,0,0
 Smit_2023,Smit23,verbal_3_back,Theta connectivity (FM-FL),4,8,200,400,correlation_sig,Greater frontomedial-lateral theta connectivity predicted faster reaction times,Pearson r,r,-0.37,<= .003,0,0
 Missonnier_2013,Missonnier13,visual_n_back,Early alpha ERD,9,15,200,900,group_diff_sig,Lower early alpha event-related desynchronization (ERD) amplitude in ADHD,ANCOVA,F,14.21,0.001,2,1
 Missonnier_2013,Missonnier13,visual_n_back,Late alpha ERS,9,15,900,2400,group_diff_sig,Higher late alpha event-related synchronization (ERS) in ADHD,ANCOVA,F,4.71,0.034,1,1
-Freichel_2024,Freichel24,SDRT,oc./ce.-oc. alpha ERD,8,12,0,500,group_diff_non_sig,No significant group differences in occipital/central-occipital alpha ERD,ANOVA,F,NR,NR,0,1
-Freichel_2024,Freichel24,SDRT,oc./ce.-oc. alpha ERD,8,12,500,1000,group_diff_non_sig,No significant group differences in occipital/central-occipital alpha ERD,ANOVA,F,NR,NR,0,1
-Freichel_2024,Freichel24,SDRT,oc./ce.-oc. alpha ERD,8,12,1000,1500,group_diff_non_sig,No significant group differences in occipital/central-occipital alpha ERD,ANOVA,F,NR,NR,0,1
-Freichel_2024,Freichel24,SDRT,oc./ce.-oc. alpha ERD,8,12,1500,2000,group_diff_non_sig,No significant group differences in occipital/central-occipital alpha ERD,ANOVA,F,NR,NR,0,1
-Freichel_2024,Freichel24,SDRT,Low-load alpha power,8,12,NR,NR,correlation_sig,Lower alpha power under low load correlated with more severe inattention symptoms,Pearson r,r,-0.25,< .01,0,0
-Freichel_2024,Freichel24,SDRT,Low-load alpha power,8,12,NR,NR,correlation_trend,Lower alpha power under low load trended with hyperactivity-impulsivity scores,Pearson r,r,-0.15,0.07,0,0
+Freichel_2024,Freichel24,SDRT,oc./ce.-oc. alpha ERD,8,12,0,500,group_diff_non_sig,No significant group differences in occipital/central-occipital alpha ERD,ANOVA,F,,,0,1
+Freichel_2024,Freichel24,SDRT,oc./ce.-oc. alpha ERD,8,12,500,1000,group_diff_non_sig,No significant group differences in occipital/central-occipital alpha ERD,ANOVA,F,,,0,1
+Freichel_2024,Freichel24,SDRT,oc./ce.-oc. alpha ERD,8,12,1000,1500,group_diff_non_sig,No significant group differences in occipital/central-occipital alpha ERD,ANOVA,F,,,0,1
+Freichel_2024,Freichel24,SDRT,oc./ce.-oc. alpha ERD,8,12,1500,2000,group_diff_non_sig,No significant group differences in occipital/central-occipital alpha ERD,ANOVA,F,,,0,1
+Freichel_2024,Freichel24,SDRT,Low-load alpha power,8,12,,,correlation_sig,Lower alpha power under low load correlated with more severe inattention symptoms,Pearson r,r,-0.25,< .01,0,0
+Freichel_2024,Freichel24,SDRT,Low-load alpha power,8,12,,,correlation_trend,Lower alpha power under low load trended with hyperactivity-impulsivity scores,Pearson r,r,-0.15,0.07,0,0
 Jang_2020,Jang20,spatial_2_back,Overall alpha power,8,12,0,1000,group_diff_sig,Higher overall alpha power in ADHD-trait cohort,ANOVA,F,5.27,0.05,1,1
 Jang_2020,Jang20,spatial_2_back,oc. alpha power,8,12,500,750,correlation_sig,Lower occipital alpha power correlated with higher CAARS self-concept impairment,Pearson r,r,-0.37,< .05,0,0
-Jang_2020,Jang20,spatial_2_back,Alpha connectivity,8,12,0,1000,group_diff_non_sig,"No group differences in alpha phase-locking connectivity, path length, or clustering",ANOVA,F,1.46,NR,0,1
-Missonnier_2013,Missonnier13,visual_n_back,P1 amplitude,NR,NR,80,150,group_diff_non_sig,No main group difference in P1 amplitude during visual n-back,ANCOVA,F,1.27,0.27,0,1
-Missonnier_2013,Missonnier13,visual_n_back,P1 latency,NR,NR,80,150,group_diff_non_sig,No main group difference in P1 latency during visual n-back,ANCOVA,F,0.22,0.642,0,0
-Kim_2014,Kim14,delayed_match_to_sample,P1 amplitude,NR,NR,80,160,group_diff_non_sig,No main effect of group on P1 amplitude collapsed across stimuli,RM-ANOVA,F,NR,NR,0,1
-Kim_2014,Kim14,delayed_match_to_sample,P1 amplitude (Group x Load),NR,NR,80,160,interaction_sig,"ADHD group showed increased P1 amplitudes for high vs. low loads, absent in controls",RM-ANOVA,F,6.27,0.015,1,0
-Missonnier_2013,Missonnier13,visual_n_back,N1 amplitude,NR,NR,120,200,group_diff_non_sig,No group difference in N1 amplitude during visual n-back,ANCOVA,F,3.17,0.086,0,1
-Missonnier_2013,Missonnier13,visual_n_back,N1 latency,NR,NR,120,200,group_diff_non_sig,No group difference in N1 latency during visual n-back,ANCOVA,F,0.04,0.277,0,0
-Zhao_2020,Zhao20,verbal_n_back,N1 peak amplitude,NR,NR,40,120,group_diff_sig,Larger N1 peak amplitudes in persistent and remitted ADHD cohorts vs. controls,ANOVA,F,4.3,0.017,1,1
-Zhao_2020,Zhao20,verbal_n_back,N1 peak latency,NR,NR,40,120,group_diff_sig,Longer N1 latencies in persistent and remitted ADHD cohorts vs. controls,ANOVA,F,6.25,0.003,1,0
-Missonnier_2013,Missonnier13,visual_n_back,P2 amplitude,NR,NR,150,250,group_diff_sig,Attenuated P2 amplitudes in ADHD vs. controls,ANCOVA,F,6.02,0.021,2,1
-Zhao_2020,Zhao20,verbal_n_back,P2 peak amplitude,NR,NR,120,220,group_diff_sig,Attenuated P2 peak amplitudes in ADHD vs. controls,ANOVA,F,5.66,0.005,2,1
-Missonnier_2013,Missonnier13,visual_n_back,P2 latency,NR,NR,150,250,group_diff_non_sig,No group differences in P2 latencies,ANCOVA,F,1.62,0.196,0,0
-Zhao_2020,Zhao20,verbal_n_back,P2 peak latency,NR,NR,120,220,group_diff_non_sig,No group differences in P2 latencies,ANOVA,F,NR,> .05,0,0
-Missonnier_2013,Missonnier13,visual_n_back,N2 amplitude,NR,NR,200,350,group_diff_non_sig,Baseline N2 amplitudes were comparable between ADHD and controls,ANCOVA,F,2.69,0.113,0,1
-Kim_2016,Kim16,verbal_2_back,N2 amplitude,NR,NR,180,300,group_diff_non_sig,Baseline N2 amplitudes were comparable between groups,RM-ANOVA,F,0.79,NR,0,1
-Stroux_2016,Stroux16,verbal_n_back,N2 amplitude,NR,NR,170,340,group_diff_non_sig,Baseline N2 amplitudes were comparable between groups,RM-ANOVA,F,0.24,0.629,0,1
-Missonnier_2013,Missonnier13,visual_n_back,N2 latency,NR,NR,200,350,group_diff_sig,N2 latencies were shorter in ADHD patients,ANCOVA,F,5.95,0.022,2,0
-Kim_2016,Kim16,verbal_2_back,N2 latency,NR,NR,180,300,group_diff_non_sig,No group difference in N2 latencies,RM-ANOVA,F,1.16,NR,0,0
-Stroux_2016,Stroux16,verbal_n_back,N2 latency,NR,NR,170,340,group_diff_non_sig,No group difference in N2 latencies,RM-ANOVA,F,0.04,0.837,0,0
-Stroux_2016,Stroux16,verbal_n_back,N2 amplitude (Targets vs Non-targets),NR,NR,170,340,interaction_sig,ADHD group lacked adaptive N2 amplitude enhancement for targets over non-targets,RM-ANOVA,F,6.22,0.015,2,0
-Stroux_2016,Stroux16,verbal_n_back,N2 amplitude (Lures vs Simple Non-targets),NR,NR,170,340,interaction_sig,Controls showed larger N2 for lures vs non-targets; ADHD group did not,RM-ANOVA,F,7.1,0.009,2,0
-Luo_2019,Luo19,visuospatial_change_detection,N2pc amplitude,NR,NR,220,260,group_diff_sig,Reduced N2pc amplitudes during change detection in ADHD,ANOVA,F,13.26,0.001,2,1
-Luo_2019,Luo19,visuospatial_change_detection,N2pc amplitude,NR,NR,220,260,correlation_sig,Smaller N2pc amplitude correlated with lower high-load accuracy in ADHD,Pearson r,r,-0.45,0.014,0,0
-Luo_2019,Luo19,visuospatial_change_detection,CDA amplitude,NR,NR,400,800,group_diff_sig,Significantly smaller CDA amplitudes across high and low loads in ADHD,ANOVA,F,4.58,0.037,2,1
-Gu_2018,Gu18,visuospatial_change_detection,CDA amplitude (Load effect),NR,NR,550,700,group_diff_sig,ADHD group failed to show the dynamic CDA amplitude increase from low to high loads,ANOVA,F,5.23,0.027,2,1
-Kim_2014,Kim14,delayed_match_to_sample,pa.-oc. P3 amplitude,NR,NR,250,500,group_diff_sig,Reduced P3 amplitudes across loads/positions in ADHD,RM-ANOVA,F,4.89-7.63,.008-.031,2,1
-Kim_2016,Kim16,verbal_2_back,P3 amplitude,NR,NR,300,500,group_diff_sig,Smaller P3 amplitudes in ADHD during verbal 2-back,RM-ANOVA,F,16.93,< .001,2,1
-Zhao_2020,Zhao20,verbal_n_back,pa. P3 peak amplitude,NR,NR,200,500,group_diff_sig,Controls and remitted ADHD showed larger P3 peak amplitudes than persistent ADHD,ANOVA,F,3.21,0.046,2,1
-Zhao_2020,Zhao20,verbal_n_back,1-back P3 amplitude,NR,NR,200,500,correlation_sig,Smaller 1-back P3 amplitudes correlated with higher hyperactivity-impulsivity scores,Pearson r,r,-0.41,0.027,0,0
-Stroux_2016,Stroux16,verbal_n_back,P3 amplitude,NR,NR,300,500,group_diff_non_sig,No significant group differences for P300 amplitude,RM-ANOVA,F,0,0.994,0,1
-Stroux_2016,Stroux16,verbal_n_back,P3 latency,NR,NR,300,500,group_diff_non_sig,No significant group differences for P300 latency,RM-ANOVA,F,0.13,0.717,0,0
+Jang_2020,Jang20,spatial_2_back,Alpha connectivity,8,12,0,1000,group_diff_non_sig,"No group differences in alpha phase-locking connectivity, path length, or clustering",ANOVA,F,1.46,,0,1
+Missonnier_2013,Missonnier13,visual_n_back,P1 amplitude,,,80,150,group_diff_non_sig,No main group difference in P1 amplitude during visual n-back,ANCOVA,F,1.27,0.27,0,1
+Missonnier_2013,Missonnier13,visual_n_back,P1 latency,,,80,150,group_diff_non_sig,No main group difference in P1 latency during visual n-back,ANCOVA,F,0.22,0.642,0,0
+Kim_2014,Kim14,delayed_match_to_sample,P1 amplitude,,,80,160,group_diff_non_sig,No main effect of group on P1 amplitude collapsed across stimuli,RM-ANOVA,F,,,0,1
+Kim_2014,Kim14,delayed_match_to_sample,P1 amplitude (Group x Load),,,80,160,interaction_sig,"ADHD group showed increased P1 amplitudes for high vs. low loads, absent in controls",RM-ANOVA,F,6.27,0.015,1,0
+Missonnier_2013,Missonnier13,visual_n_back,N1 amplitude,,,120,200,group_diff_non_sig,No group difference in N1 amplitude during visual n-back,ANCOVA,F,3.17,0.086,0,1
+Missonnier_2013,Missonnier13,visual_n_back,N1 latency,,,120,200,group_diff_non_sig,No group difference in N1 latency during visual n-back,ANCOVA,F,0.04,0.277,0,0
+Zhao_2020,Zhao20,verbal_n_back,N1 peak amplitude,,,40,120,group_diff_sig,Larger N1 peak amplitudes in persistent and remitted ADHD cohorts vs. controls,ANOVA,F,4.3,0.017,1,1
+Zhao_2020,Zhao20,verbal_n_back,N1 peak latency,,,40,120,group_diff_sig,Longer N1 latencies in persistent and remitted ADHD cohorts vs. controls,ANOVA,F,6.25,0.003,1,0
+Missonnier_2013,Missonnier13,visual_n_back,P2 amplitude,,,150,250,group_diff_sig,Attenuated P2 amplitudes in ADHD vs. controls,ANCOVA,F,6.02,0.021,2,1
+Zhao_2020,Zhao20,verbal_n_back,P2 peak amplitude,,,120,220,group_diff_sig,Attenuated P2 peak amplitudes in ADHD vs. controls,ANOVA,F,5.66,0.005,2,1
+Missonnier_2013,Missonnier13,visual_n_back,P2 latency,,,150,250,group_diff_non_sig,No group differences in P2 latencies,ANCOVA,F,1.62,0.196,0,0
+Zhao_2020,Zhao20,verbal_n_back,P2 peak latency,,,120,220,group_diff_non_sig,No group differences in P2 latencies,ANOVA,F,,> .05,0,0
+Missonnier_2013,Missonnier13,visual_n_back,N2 amplitude,,,200,350,group_diff_non_sig,Baseline N2 amplitudes were comparable between ADHD and controls,ANCOVA,F,2.69,0.113,0,1
+Kim_2016,Kim16,verbal_2_back,N2 amplitude,,,180,300,group_diff_non_sig,Baseline N2 amplitudes were comparable between groups,RM-ANOVA,F,0.79,,0,1
+Stroux_2016,Stroux16,verbal_n_back,N2 amplitude,,,170,340,group_diff_non_sig,Baseline N2 amplitudes were comparable between groups,RM-ANOVA,F,0.24,0.629,0,1
+Missonnier_2013,Missonnier13,visual_n_back,N2 latency,,,200,350,group_diff_sig,N2 latencies were shorter in ADHD patients,ANCOVA,F,5.95,0.022,2,0
+Kim_2016,Kim16,verbal_2_back,N2 latency,,,180,300,group_diff_non_sig,No group difference in N2 latencies,RM-ANOVA,F,1.16,,0,0
+Stroux_2016,Stroux16,verbal_n_back,N2 latency,,,170,340,group_diff_non_sig,No group difference in N2 latencies,RM-ANOVA,F,0.04,0.837,0,0
+Stroux_2016,Stroux16,verbal_n_back,N2 amplitude (Targets vs Non-targets),,,170,340,interaction_sig,ADHD group lacked adaptive N2 amplitude enhancement for targets over non-targets,RM-ANOVA,F,6.22,0.015,2,0
+Stroux_2016,Stroux16,verbal_n_back,N2 amplitude (Lures vs Simple Non-targets),,,170,340,interaction_sig,Controls showed larger N2 for lures vs non-targets; ADHD group did not,RM-ANOVA,F,7.1,0.009,2,0
+Luo_2019,Luo19,visuospatial_change_detection,N2pc amplitude,,,220,260,group_diff_sig,Reduced N2pc amplitudes during change detection in ADHD,ANOVA,F,13.26,0.001,2,1
+Luo_2019,Luo19,visuospatial_change_detection,N2pc amplitude,,,220,260,correlation_sig,Smaller N2pc amplitude correlated with lower high-load accuracy in ADHD,Pearson r,r,-0.45,0.014,0,0
+Luo_2019,Luo19,visuospatial_change_detection,CDA amplitude,,,400,800,group_diff_sig,Significantly smaller CDA amplitudes across high and low loads in ADHD,ANOVA,F,4.58,0.037,2,1
+Gu_2018,Gu18,visuospatial_change_detection,CDA amplitude (Load effect),,,550,700,group_diff_sig,ADHD group failed to show the dynamic CDA amplitude increase from low to high loads,ANOVA,F,5.23,0.027,2,1
+Kim_2014,Kim14,delayed_match_to_sample,pa.-oc. P3 amplitude,,,250,500,group_diff_sig,Reduced P3 amplitudes across loads/positions in ADHD,RM-ANOVA,F,4.89-7.63,.008-.031,2,1
+Kim_2016,Kim16,verbal_2_back,P3 amplitude,,,300,500,group_diff_sig,Smaller P3 amplitudes in ADHD during verbal 2-back,RM-ANOVA,F,16.93,< .001,2,1
+Zhao_2020,Zhao20,verbal_n_back,pa. P3 peak amplitude,,,200,500,group_diff_sig,Controls and remitted ADHD showed larger P3 peak amplitudes than persistent ADHD,ANOVA,F,3.21,0.046,2,1
+Zhao_2020,Zhao20,verbal_n_back,1-back P3 amplitude,,,200,500,correlation_sig,Smaller 1-back P3 amplitudes correlated with higher hyperactivity-impulsivity scores,Pearson r,r,-0.41,0.027,0,0
+Stroux_2016,Stroux16,verbal_n_back,P3 amplitude,,,300,500,group_diff_non_sig,No significant group differences for P300 amplitude,RM-ANOVA,F,0,0.994,0,1
+Stroux_2016,Stroux16,verbal_n_back,P3 latency,,,300,500,group_diff_non_sig,No significant group differences for P300 latency,RM-ANOVA,F,0.13,0.717,0,0
