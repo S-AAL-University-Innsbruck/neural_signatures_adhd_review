@@ -1,0 +1,36 @@
+{
+  "title": "Neural signatures of inhibition and working memory in adults with ADHD: A systematic review",
+  "description": "This repository includes all the data collected in the process of writing the review. Additionally, every code used for generating included plots is accessible in the jupyter notebook",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Warnking, Tizian",
+      "affiliation": "SAAL Project, University of Innsbruck",
+      "orcid": "0009-0002-8922-5662"
+    },
+    {
+      "name": "Staller, Laura",
+      "affiliation": "SAAL Project, University of Innsbruck"
+    }
+  ],
+  "keywords": [
+    "ADHD review",
+    "inhibition",
+    "working memory",
+    "reproducible research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.crd.york.ac.uk/PROSPERO/view/CRD420251185577",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ]
+}
